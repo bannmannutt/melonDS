@@ -14,7 +14,7 @@
 </p>
 DS emulator, sorta
 
-I edited this just to hopefully trigger an action
+Didn't work  : (
 <hr>
 
 ## How to use
